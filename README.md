@@ -118,6 +118,4 @@ Samruddhi Yadav
 📊 Aspiring Data Analyst
 💡 Skills: Python | Pandas | Data Visualization | ED
 
-Just reply 1 / 2 / 3 / 4 👍
 
-Is this co
